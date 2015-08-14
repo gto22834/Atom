@@ -2,7 +2,7 @@
 The notice of Atom installation
 
 ## Atom package
-[color-picker]  
+[color-picker] </br>
 [atom-beautify] - apm install atom-beautify </br>
 [highlight-selected] </br>
 [linter] - apm install linter </br>
