@@ -2,17 +2,17 @@
 The notice of Atom installation
 
 ## Atom package
-[color-picker]
-[atom-beautify] apm install atom-beautify
-[highlight-selected]
-[linter] apm install linter
-[linter-jshint] apm install linter-jshint
-[minimap]  apm install minimap
-[minimap-git-diff]
-[minimap-find-and-replace]
-[minimap-highlight-selected]
-[minimap-bookmarks]
-[minimap-selection]
+[color-picker] 
+[atom-beautify] apm install atom-beautify 
+[highlight-selected] 
+[linter] apm install linter 
+[linter-jshint] apm install linter-jshint 
+[minimap]  apm install minimap 
+[minimap-git-diff] 
+[minimap-find-and-replace] 
+[minimap-highlight-selected] 
+[minimap-bookmarks] 
+[minimap-selection] 
 
 [color-picker]:https://atom.io/packages/color-picker
 [atom-beautify]:https://atom.io/packages/atom-beautify
