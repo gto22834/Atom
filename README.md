@@ -3,11 +3,11 @@ The notice of Atom installation
 
 ## Atom package
 [color-picker] </br>
-[atom-beautify] apm install atom-beautify </br>
+[atom-beautify] - apm install atom-beautify </br>
 [highlight-selected] </br>
-[linter] apm install linter </br>
-[linter-jshint] apm install linter-jshint </br>
-[minimap]  apm install minimap </br>
+[linter] - apm install linter </br>
+[linter-jshint] - apm install linter-jshint </br>
+[minimap] - apm install minimap </br>
 [minimap-git-diff] </br>
 [minimap-find-and-replace] </br>
 [minimap-highlight-selected] </br>
