@@ -13,6 +13,8 @@ The notice of Atom installation
 [minimap-highlight-selected] </br>
 [minimap-bookmarks] </br>
 [minimap-selection] </br>
+[remote-FTP] </br>
+[docblockr] </br>
 
 [color-picker]:https://atom.io/packages/color-picker
 [atom-beautify]:https://atom.io/packages/atom-beautify
@@ -25,3 +27,5 @@ The notice of Atom installation
 [minimap-highlight-selected]:https://atom.io/users/atom-minimap
 [minimap-bookmarks]:https://atom.io/packages/minimap-bookmarks
 [minimap-selection]:https://atom.io/packages/minimap-selection
+[remote-FTP]:https://atom.io/packages/remote-ftp
+[docblockr]:https://atom.io/packages/docblockr
