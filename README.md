@@ -15,6 +15,9 @@ The notice of Atom installation
 [minimap-selection] </br>
 [remote-FTP] </br>
 [docblockr] </br>
+[autoclose-html] </br>
+[autocomplete-paths] </br>
+[pigment] </br>
 
 [color-picker]:https://atom.io/packages/color-picker
 [atom-beautify]:https://atom.io/packages/atom-beautify
@@ -29,3 +32,6 @@ The notice of Atom installation
 [minimap-selection]:https://atom.io/packages/minimap-selection
 [remote-FTP]:https://atom.io/packages/remote-ftp
 [docblockr]:https://atom.io/packages/docblockr
+[autoclose-html]:https://atom.io/packages/autoclose-html
+[pigment]:https://atom.io/packages/pigment
+[autocomplete-paths]:https://atom.io/packages/autocomplete-paths
