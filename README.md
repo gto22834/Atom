@@ -18,6 +18,7 @@ The notice of Atom installation
 [autoclose-html] </br>
 [autocomplete-paths] </br>
 [pigment] </br>
+[file-icons] </br>
 
 [color-picker]:https://atom.io/packages/color-picker
 [atom-beautify]:https://atom.io/packages/atom-beautify
@@ -35,3 +36,4 @@ The notice of Atom installation
 [autoclose-html]:https://atom.io/packages/autoclose-html
 [pigment]:https://atom.io/packages/pigment
 [autocomplete-paths]:https://atom.io/packages/autocomplete-paths
+[file-icons]:https://atom.io/packages/file-icons
