@@ -20,6 +20,9 @@ The notice of Atom installation
 [pigment] </br>
 [file-icons] </br>
 
+### 可以考慮
+[linter-liferay] - 可以 lint css, js, html, sass, scss
+
 [color-picker]:https://atom.io/packages/color-picker
 [atom-beautify]:https://atom.io/packages/atom-beautify
 [highlight-selected]:https://atom.io/packages/highlight-selected
