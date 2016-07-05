@@ -7,13 +7,16 @@ The notice of Atom installation
 [highlight-selected] </br>
 [linter] - apm install linter </br>
 [linter-eslint] - apm install linter-eslint </br>
-[linter-eslint] - apm install linter-eslint </br>
+[linter-htmlhint] - apm install linter-htmlhint </br>
+[linter-jsonlint] - apm install linter-jsonlint </br>
+[linter-stylelint] - apm install linter-stylelint </br>
 [minimap] - apm install minimap </br>
 [minimap-git-diff] </br>
 [minimap-find-and-replace] </br>
 [minimap-highlight-selected] </br>
 [minimap-bookmarks] </br>
 [minimap-selection] </br>
+[minimap-linter] </br>
 [remote-FTP] </br>
 [docblockr] </br>
 [autoclose-html] </br>
@@ -29,12 +32,16 @@ The notice of Atom installation
 [highlight-selected]:https://atom.io/packages/highlight-selected
 [linter]:https://atom.io/packages/linter
 [linter-eslint]:https://atom.io/packages/linter-eslint
+[linter-htmlhint]:https://atom.io/packages/linter-htmlhint
+[linter-jsonlint]:https://atom.io/packages/linter-jsonlint
+[linter-stylelint]:https://atom.io/packages/linter-stylelint
 [minimap]:https://atom.io/packages/minimap
 [minimap-git-diff]:https://atom.io/packages/minimap-git-diff
 [minimap-find-and-replace]:https://atom.io/packages/minimap-find-and-replace
 [minimap-highlight-selected]:https://atom.io/users/atom-minimap
 [minimap-bookmarks]:https://atom.io/packages/minimap-bookmarks
 [minimap-selection]:https://atom.io/packages/minimap-selection
+[minimap-linter]:https://atom.io/packages/minimap-linter
 [remote-FTP]:https://atom.io/packages/remote-ftp
 [docblockr]:https://atom.io/packages/docblockr
 [autoclose-html]:https://atom.io/packages/autoclose-html
