@@ -6,7 +6,8 @@ The notice of Atom installation
 [atom-beautify] - apm install atom-beautify </br>
 [highlight-selected] </br>
 [linter] - apm install linter </br>
-[linter-jshint] - apm install linter-jshint </br>
+[linter-eslint] - apm install linter-eslint </br>
+[linter-eslint] - apm install linter-eslint </br>
 [minimap] - apm install minimap </br>
 [minimap-git-diff] </br>
 [minimap-find-and-replace] </br>
@@ -27,7 +28,7 @@ The notice of Atom installation
 [atom-beautify]:https://atom.io/packages/atom-beautify
 [highlight-selected]:https://atom.io/packages/highlight-selected
 [linter]:https://atom.io/packages/linter
-[linter-jshint]:https://atom.io/packages/linter-jshint
+[linter-eslint]:https://atom.io/packages/linter-eslint
 [minimap]:https://atom.io/packages/minimap
 [minimap-git-diff]:https://atom.io/packages/minimap-git-diff
 [minimap-find-and-replace]:https://atom.io/packages/minimap-find-and-replace
